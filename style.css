@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #717a80;
+}
+
+.top{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(diwali-bg.png);
+    color: hsl(202, 100%, 95%);
+    height: 30vh;
+    background-size: cover;
+}
+
+.h1{
+    width: 200px;
+    padding: 20px;
+}
+.main{
+    text-align: center;
+    background-color:chocolate;
+    padding: 10px;
+}
+
+.card{
+    text-align: center;
+    border-radius: 10px; 
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    margin: 20px;
+    width: 140px;
+    padding: 16px;
+}
+
+.para{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+}
+
+.heading{
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: normal;
+}
+.video{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    color: black;
+}
